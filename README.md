@@ -4,7 +4,7 @@
 <h3 align="center">🔥 Passionate about Fullstack Development</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=28&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=Fullstack+Developer;Frontend+%7C+Backend+%7C+DevOps;Always+Learning+New+Things+🚀" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=28&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=Fullstack+Developer;Frontend+%7C+Backend;Always+Learning+New+Things+🚀" />
 </p>
 
 ---
@@ -13,7 +13,6 @@
 
 - 🎓 Computer Engineering Graduate from **Chiang Mai University**
 - 💻 Interested in **Web Development**
-- 🌱 Currently learning **Cloud / DevOps / Scalable Systems**
 - ⚡ Love building **Modern Fullstack Applications**
 - 📫 Reach me anytime
 

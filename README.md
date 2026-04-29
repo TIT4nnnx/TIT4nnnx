@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Suphakon Komod</h1>
 
 <h3 align="center">
-💻 4th Year Computer Engineering Student , Chiang Mai University <br>
+💻 Computer Engineering graduate from Chiang Mai University.<br>
 🔥 Passionate about Fullstack Development
 </h3>
 
